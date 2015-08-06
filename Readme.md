@@ -8,5 +8,6 @@ Introduction
 Purpose
 
 ## How To Contribute
+Contribute
 
 ## Deployment
