@@ -11,3 +11,7 @@ Purpose
 Contribute
 
 ## Deployment
+
+## Copyright
+
+2015 Git Training
